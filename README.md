@@ -1,6 +1,6 @@
 ### 👋👋👋
 
-<a href="https://cjh-blog.tistory.com/"><img src=<img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=Tistory&logoColor=000000"/></a>
+<a href="https://cjh-blog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=Tistory&logoColor=000000"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCjunhyun)](https://hits.seeyoufarm.com)
 <!--
