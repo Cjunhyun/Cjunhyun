@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Cjunhyun&theme=graywhite&show_icons=true&hide_border=true)](https://github.com/Cjunhyun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjunhyun&layout=compact)](https://github.com/Cjunhyun)
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=Cjunhyun&theme=graywhite&show_icons=true&hide_border=true)](https://github.com/Cjunhyun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjunhyun&layout=compact)](https://github.com/Cjunhyun) -->
 
 <a href="https://cjh-blog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>
 <br/><br/>
