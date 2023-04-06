@@ -4,8 +4,8 @@
 # JunHyun Github😄
 
 ## Study📚
--[쿠버네티스 인 액션 [k8s]](https://cjh-blog.tistory.com/24)
--[빅데이터를 지탱하는 기술 [Hadoop,Hive,Spark]](https://cjh-blog.tistory.com/25)
+- [쿠버네티스 인 액션 [k8s]](https://cjh-blog.tistory.com/24)
+- [빅데이터를 지탱하는 기술 [Hadoop,Hive,Spark]](https://cjh-blog.tistory.com/25)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjunhyun&layout=compact)](https://github.com/Cjunhyun)
 
