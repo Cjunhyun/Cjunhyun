@@ -8,8 +8,6 @@
 - [쿠버네티스 인 액션 [k8s]](https://cjh-blog.tistory.com/24)
 - [빅데이터를 지탱하는 기술 [Hadoop,Hive,Spark]](https://cjh-blog.tistory.com/25)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjunhyun&layout=compact)](https://github.com/Cjunhyun)
-
 ## 🛠️
 <div align=center>
 
@@ -26,3 +24,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 </div>
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjunhyun&layout=compact)](https://github.com/Cjunhyun)
+
