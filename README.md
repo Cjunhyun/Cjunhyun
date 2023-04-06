@@ -1,6 +1,6 @@
 ### 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCjunhyun)](https://hits.seeyoufarm.com)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JunHyun Github&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JunHyun Github%20render&fontSize=90)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjunhyun&layout=compact)](https://github.com/Cjunhyun)
 
 <a href="https://cjh-blog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=ffffff"/></a>
