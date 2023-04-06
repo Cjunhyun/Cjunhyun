@@ -1,9 +1,10 @@
 ### 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCjunhyun)](https://hits.seeyoufarm.com)
 
-#JunHyun Github😄
+# JunHyun Github😄
 
-###Study📚
+### Study📚
+---
 - [쿠버네티스 인 액션 [k8s]](https://cjh-blog.tistory.com/24)
 - [빅데이터를 지탱하는 기술 [Hadoop,Hive,Spark]](https://cjh-blog.tistory.com/25)
 
